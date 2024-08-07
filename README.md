@@ -1,0 +1,2 @@
+Free code camp: Scientific Computing with Python (Beta) \ Learn Data Structures by Building the Merge Sort Algorithm
+https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-data-structures-by-building-the-merge-sort-algorithm/step-33
